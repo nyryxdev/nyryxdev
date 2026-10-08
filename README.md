@@ -2,10 +2,6 @@
   <img src="assets/banner.svg" alt="NYRYX — software developer" width="100%" />
 </p>
 
-<p align="center">
-  Сейчас строю <b>Klondo</b> — центр заказов для фрилансеров: лиды с бирж и Telegram в один inbox, ИИ-отклики, всё локально.
-</p>
-
 <h3 align="center">работаю с</h3>
 
 <p align="center">
