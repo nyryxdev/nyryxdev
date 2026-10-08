@@ -2,7 +2,6 @@
   <img src="assets/banner.svg" alt="NYRYX — software developer" width="100%" />
 </p>
 
-<h3 align="center">работаю с</h3>
 
 <p align="center">
   <img src="assets/stack.svg" alt="Rust, C++, Python, Zig, TypeScript, VS Code, Claude Code, Z.ai" width="100%" />
